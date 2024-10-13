@@ -1,4 +1,4 @@
-theme: minima
+remote_theme: pages-themes/minimal@v0.2.0
 title: "Bootstrappy"
 description: "This page is not finished yet. Watch the Discord for future info; https://discord.gg/qwkY7smbtU"
 show_downloads: true
